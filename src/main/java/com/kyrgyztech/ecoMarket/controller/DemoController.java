@@ -1,4 +1,4 @@
-package com.kyrgyztech.ecoMarket.Controller;
+package com.kyrgyztech.ecoMarket.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
